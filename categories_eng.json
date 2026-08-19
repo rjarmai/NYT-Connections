@@ -1,0 +1,128 @@
+[
+    {
+        "category1": {
+            "words": [
+                "CONCERT",
+                "GIG",
+                "SET",
+                "SHOW"
+            ],
+            "color": "YELLOW",
+            "explanation": "MUSICAL PERFORMANCE"
+        },
+        "category2": {
+            "words": [
+                "ACTOR",
+                "AGENT",
+                "PARTY",
+                "PLAYER"
+            ],
+            "color": "GREEN",
+            "explanation": "PARTICIPANT"
+        },
+        "category3": {
+            "words": [
+                "GRAND",
+                "GREAT",
+                "HALF",
+                "STEP"
+            ],
+            "color": "BLUE",
+            "explanation": "FAMILY RELATIONSHIP MODIFIERS"
+        },
+        "category4": {
+            "words": [
+                "FROM NEANDER",
+                "HANDY",
+                "UPRIGHT",
+                "WISE"
+            ],
+            "color": "PURPLE",
+            "explanation": "DESCRIPTIONS FOR OUR HUMAN ANCESTORS"
+        }
+    },
+    {
+        "category1": {
+            "words": [
+                "GARAGE",
+                "HOUSE",
+                "PORCH",
+                "SHED"
+            ],
+            "color": "YELLOW",
+            "explanation": "HOME STRUCTURES"
+        },
+        "category2": {
+            "words": [
+                "ACID",
+                "COMMUNE",
+                "FREE LOVE",
+                "HIPPIE"
+            ],
+            "color": "GREEN",
+            "explanation": "ASSOCIATED WITH 1960S COUNTERCULTURE"
+        },
+        "category3": {
+            "words": [
+                "FRENCH",
+                "GREEN",
+                "INDUSTRIAL",
+                "SEXUAL"
+            ],
+            "color": "BLUE",
+            "explanation": "FAMOUS REVOLUTIONS"
+        },
+        "category4": {
+            "words": [
+                "AIR QUOTES",
+                "BUNNY EARS",
+                "FINGERS CROSSED",
+                "PEACE"
+            ],
+            "color": "PURPLE",
+            "explanation": "GESTURES MADE WITH TWO FINGERS"
+        }
+    },
+    {
+        "category1": {
+            "words": [
+                "ALARM",
+                "DISTURB",
+                "SHAKE",
+                "SHOCK"
+            ],
+            "color": "YELLOW",
+            "explanation": "UNNERVE"
+        },
+        "category2": {
+            "words": [
+                "CHECK",
+                "CROSS",
+                "MARK",
+                "TICK"
+            ],
+            "color": "GREEN",
+            "explanation": "REMOVE, AS AN ITEM FROM A LIST WITH \"OFF\""
+        },
+        "category3": {
+            "words": [
+                "TESLA",
+                "TIME",
+                "TRUE",
+                "TYRANNOSAURUS"
+            ],
+            "color": "BLUE",
+            "explanation": "WHAT \"T\" MIGHT STAND FOR"
+        },
+        "category4": {
+            "words": [
+                "HOUR",
+                "HUR",
+                "THERE",
+                "YORE"
+            ],
+            "color": "PURPLE",
+            "explanation": "HOMOPHONES OF POSSESSIVE ADJECTIVES"
+        }
+    }
+]

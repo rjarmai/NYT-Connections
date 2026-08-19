@@ -1,0 +1,86 @@
+[
+    {
+        "category1": {
+            "words": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "color": "YELLOW",
+            "explanation": "BUDAPESTI METRÓK"
+        },
+        "category2": {
+            "words": [
+                "14",
+                "19",
+                "41",
+                "56"
+            ],
+            "color": "GREEN",
+            "explanation": "BUDAPESTI VILLAMOSOK"
+        },
+        "category3": {
+            "words": [
+                "9",
+                "106",
+                "134",
+                "218"
+            ],
+            "color": "BLUE",
+            "explanation": "BUDAPESTI BUSZOK"
+        },
+        "category4": {
+            "words": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "color": "PURPLE",
+            "explanation": "BUDAPESTI HÉVEK"
+        }
+    },
+    {
+        "category1": {
+            "words": [
+                "ASZTAL",
+                "GÉP",
+                "ESZKÖZ",
+                "DEÁK"
+            ],
+            "color": "YELLOW",
+            "explanation": "'ÍRÓ'- ELŐTAGÚ SZAVAK"
+        },
+        "category2": {
+            "words": [
+                "KUTYA",
+                "CILINDER",
+                "GYŰSZŰ",
+                "MACSKA"
+            ],
+            "color": "GREEN",
+            "explanation": "MONOPOLY FIGURÁK"
+        },
+        "category3": {
+            "words": [
+                "KOSSUTH",
+                "INFÓ",
+                "MÁRIA",
+                "PETŐFI"
+            ],
+            "color": "BLUE",
+            "explanation": "MAGYAR RÁDIÓ CSATORNÁK"
+        },
+        "category4": {
+            "words": [
+                "FUTÁR",
+                "MENSTRUÁCIÓ",
+                "VONAT",
+                "FIZETÉS"
+            ],
+            "color": "PURPLE",
+            "explanation": "DOLGOK, AMIK GYAKRAN KÉSNEK"
+        }
+    }
+]
