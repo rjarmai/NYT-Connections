@@ -7,6 +7,4 @@ Find groups of four items that share something in common.
 * Select four items and click 'Submit' to check if your guess is correct.
 * Find the groups without making 4 mistakes!
 
-### Features
-* Some pre-made word collections are added in English and Hungarian
-* Create new games using the game_editor.py
+Word collections in English are added from [this](https://github.com/Eyefyre/NYT-Connections-Answers) github repository. Some games in Hungarian are also added (made by myself).
