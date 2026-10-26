@@ -73,6 +73,11 @@ class ConnectionsGame:
             self.boxes_chosen.remove(button)
             self.texts_chosen.remove(word)
 
+    def one_away(self):
+        label = Label(self.root, text="One away...", bg="black", fg="white", wraplength=100)
+        label.place(relx=0.5, rely=0, anchor="n")
+        self.root.after(2000, label.destroy)
+
     def submit_guess(self):
         if len(self.boxes_chosen) == 4:
             is_correct = False
@@ -83,6 +88,8 @@ class ConnectionsGame:
                     self.categories_guessed_num += 1
                     self.reveal(category)
                     break
+                if len(list(set(self.texts_chosen) - set(category.words))) == 1:
+                    self.one_away()
             if not is_correct:
                 self.mistakes_remaining -= 1
                 self.mistakes_display.delete(self.mistake_circles[-1])

@@ -82,5 +82,47 @@
             "color": "PURPLE",
             "explanation": "DOLGOK, AMIK GYAKRAN KÉSNEK"
         }
+    },
+    {
+        "category1": {
+            "words": [
+                "ZSÍR",
+                "KIRÁLY",
+                "SZUPER",
+                "SIRÁLY"
+            ],
+            "color": "YELLOW",
+            "explanation": "\"JÓ\" SZINONIMÁI"
+        },
+        "category2": {
+            "words": [
+                "KALAPÁCS",
+                "KAGYLÓ",
+                "ÜLLŐ",
+                "KENGYEL"
+            ],
+            "color": "GREEN",
+            "explanation": "FÜL RÉSZEI"
+        },
+        "category3": {
+            "words": [
+                "PATKÓ",
+                "KÉMÉNYSEPRŐ",
+                "LÓHERE",
+                "NYÚLLÁB"
+            ],
+            "color": "BLUE",
+            "explanation": "SZERENCSEHOZÓ TÁRGYAK"
+        },
+        "category4": {
+            "words": [
+                "GOLF",
+                "DOB",
+                "KUTYA",
+                "TENISZ"
+            ],
+            "color": "PURPLE",
+            "explanation": "-ÜTŐ UTÓTAGÚ SZAVAK"
+        }
     }
 ]
